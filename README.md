@@ -15,11 +15,11 @@
   <img align="center" alt="Pedro-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-##
+
 
 <img src="https://raw.githubusercontent.com/pedro-azeredo/pedro-azeredo/output/snake.svg" alt="Snake animation" />
 
-##
+
 
 <a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-azeredo&repo=PenseBem&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a>
 <a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-azeredo&repo=forkfire&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a>
@@ -28,17 +28,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-azeredo&langs_count=8&hide_progress=true&hide=html,css,procfile&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-##
-
-
-<div> 
-<!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href="mailto:pedroa.zeredoramos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/pedrodeazeredo/" >
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrodeazeredo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="mailto:pedro.azeredoramos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pedro.azeredoramos@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
   
 </div>
 
