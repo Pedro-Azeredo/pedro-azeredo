@@ -17,6 +17,10 @@
 
 ##
 
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
+##
+
 <a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-azeredo&repo=PenseBem&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a>
 <a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-azeredo&repo=forkfire&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a>
 <a>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-azeredo&repo=mypass&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a>
@@ -25,6 +29,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-azeredo&langs_count=8&hide_progress=true&hide=html,css,procfile&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
+
 
 <div> 
 <!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
